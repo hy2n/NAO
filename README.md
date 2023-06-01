@@ -1,4 +1,3 @@
-# The Ai Driving Car : NAO
 
 ![슬라이드1](https://github.com/hy2n/NAO/assets/92370007/3bfb411e-1aaf-42ba-8777-d9985d4a17a6)
 ![슬라이드2](https://github.com/hy2n/NAO/assets/92370007/3d0ad130-015c-4574-b414-9fad575d0aca)
