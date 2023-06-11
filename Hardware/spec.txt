@@ -1,0 +1,7 @@
+HardWare Specs
+
+Battery : 36,500mAh (5Cells, 3.7v) - Min 6Hr , Max 8Hr
+
+Motor : Common 104RPM - Max 121RPM, Common 3.7Kg - Max 6Kg Lift
+
+
