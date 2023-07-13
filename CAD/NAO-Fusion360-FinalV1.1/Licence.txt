@@ -1,0 +1,12 @@
+2023/07 - NAO-AI-CAR / Main.stl
+
+[info]
+
+TinkerCad:
+https://www.tinkercad.com/things/67MZeoF8VOm-nao-v11final
+
+Verson: 1.1 Final
+
+By 0813jake, Donghyun
+
+**3D프린터 출력본은 /PrintPart를 확인하십시오**
